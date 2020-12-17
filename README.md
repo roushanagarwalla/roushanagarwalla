@@ -7,7 +7,7 @@
 
 - 🔭 &nbsp; I’m currently learning and Using Python for Web development, Machine Learning, Data Science and other Fun Stufs
 - 🤔 &nbsp; Exploring new technologies and Creating new projects.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Information Science Technology at BMSIT. Loves Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Full-Stack web developer, Building skills on Data Science.
 - 🌱 &nbsp; Love cyber Security and Artificial Intelligence including Computer Vision, Data Science.
 - ✍️ &nbsp; Love reading books and Writing too, convert ideas to reality by building things.
