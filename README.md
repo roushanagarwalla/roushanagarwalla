@@ -32,4 +32,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roushanagarwalla&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/roushanagarwalla/github-readme-stats)
 
 <p> A passionate Learner, I can learn everything that can take my interest</p>
-<p> Addicted to Programming</p> 
+<p> Addicted to Programming and also love github's dark Theme</p> 
