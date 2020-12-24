@@ -10,6 +10,7 @@
 - 🎓 &nbsp; Studying Information Science Technology at BMSIT. Loves Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Full-Stack web developer, Building skills on Data Science.
 - 🌱 &nbsp; Love cyber Security and Artificial Intelligence including Computer Vision, Data Science.
+- 🔭 &nbsp; Switch to Linux from Windows now wanna to try Mac.
 - ✍️ &nbsp; Love reading books and Writing too, convert ideas to reality by building things.
 - 🤔 &nbsp; Love Listening music while coding 
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
