@@ -23,6 +23,15 @@
 - 🌐 &nbsp; <strong>Want To Master -> </strong> Web Devlopment | Data Science | Problem Solving
 <br>
 
+
+<h3 style=="text-align:center;">Connect With Me</h3>
+<br>
+[![Gmail Badge](https://img.shields.io/badge/-roshanagarwal67@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roshanagarwal67@gmail.com)](mailto:roshanagarwal67@gmail.com)
+
+
+<br>
+<br>
+
 <!-- ![Roushan's Github Stats](https://github-readme-stats.vercel.app/api?username=roushanagarwallak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=roushanagarwalla&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Roushan's Github Stats">
 
