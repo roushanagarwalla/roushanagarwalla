@@ -1,36 +1,32 @@
-<h2> Hey there! I'm Roshan. <img src="https://raw.githubusercontent.com/roushanagarwalla/roushanagarwalla/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/roushanagarwalla/roushanagarwalla/master/gif3.gif" width="500"/>
+<h1 align="center">Hi 👋, I'm Roushan Agarwalla</h1>
+<h3 align="center">A curious learner, web developer</h3>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roushanagarwalla&label=Profile%20views&color=0e75b6&style=flat" alt="roushanagarwalla" /> </p>
 
-- 🔭 &nbsp; I’m currently learning and Using Python for Web development, Machine Learning, Data Science and other Fun Stufs
-- 🤔 &nbsp; Love exploring new technologies and Creating new projects.
-- 🎓 &nbsp; Studying Information Science Technology at BMSIT. Loves Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Full-Stack web development, Building skills on Data Science.
-- 🌱 &nbsp; Love Learning about cyber Security and Artificial Intelligence including Computer Vision, Data Science and Other Energing technologies.
-- 💻 &nbsp; Started Competative Coding and Problem Solving in Codechef(poeticflamingo)/Hackerank(roshanagarwal883).
-- 🔭 &nbsp; Linux/Windows.
-- ✍️ &nbsp; Love reading books and converting ideas to reality by building things.
-- 🤔 &nbsp; Love Listening music while coding 
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- 🌱 I’m currently learning **Fullstack development, Machine Learning**
 
-<h3>🛠 Tech Stack</h3>
+- 👨‍💻 I'm interested in **Competitve Programming, Web Development, Machine Learning**
 
-- 💻 &nbsp; Python | C++ | C | HTML | CSS | more coming soon...   
-- 🌐 &nbsp; Wordpress | Django | Flask | Pandas | Bootstrap | Tkinter | HUGO | Jekyll | more comming soon... 
-- 🛢 &nbsp; MySQL | SQLite | Xampp | more comming soon...
-- 🔧 &nbsp; PyCharm | Visual Studio code(Current) | Git } VIM | Jupyter Notebook | more comming soon... 
-- 🌐 &nbsp; <strong>Want To Master -> </strong> Web Devlopment | Data Science | Problem Solving
-<br>
-<br>
-<br>
+- 💬 Ask me about **Python, Django, Web Devlopment, Competitive Programming**
 
-<!-- ![Roushan's Github Stats](https://github-readme-stats.vercel.app/api?username=roushanagarwallak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=roushanagarwalla&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Roushan's Github Stats">
+- 📫 How to reach me **roshanagarwal375@gmail.com**
 
-</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/roushanagarwalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="roushanagarwalla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roushan-agarwalla-bb0564222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roushan-agarwalla-bb0564222" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/roushan2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roushan2001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/roushan2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="roushan2001" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/roshanagarwal67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roshanagarwal67" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/roushan2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roushan2001" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/roshanagarwal67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roshanagarwal67" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roushanagarwalla&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/roushanagarwalla/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p> A passionate Learner, I can learn everything that can take my interest</p>
-<p> Addicted to Programming and also love github's dark Theme</p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roushanagarwalla&show_icons=true&locale=en&layout=compact" alt="roushanagarwalla" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roushanagarwalla&show_icons=true&locale=en" alt="roushanagarwalla" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roushanagarwalla&" alt="roushanagarwalla" /></p>
