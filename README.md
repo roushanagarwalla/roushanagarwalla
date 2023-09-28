@@ -27,10 +27,8 @@
 <br/><br/>
 <span>
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=roushanagarwalla&show_icons=true&hide=&count_private=true&theme=prussian&hide_border=true&show_icons=true" alt="roushanagarwalla" />
-  <img align="center" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=roushanagarwalla&theme=prussian&hide_border=true&count_private=true" alt="roushanagarwalla" />
 </span>
 <br/><br/>
 <span>
   <img width="26.75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=roushanagarwalla&show_icons=true&hide=&count_private=true&theme=prussian&hide_border=true&show_icons=true" alt="roushanagarwalla" />
-  <a href="http://www.github.com/roushanagarwalla"><img width="72.25%" src="https://activity-graph.herokuapp.com/graph?username=roushanagarwalla&&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF&hide_border=true" alt="GitHub Commits Graph" /></a>
 </span>
