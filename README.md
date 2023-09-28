@@ -27,8 +27,7 @@
 <br/><br/>
 <span>
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=roushanagarwalla&show_icons=true&hide=&count_private=true&theme=prussian&hide_border=true&show_icons=true" alt="roushanagarwalla" />
+    <img width="26.75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=roushanagarwalla&show_icons=true&hide=&count_private=true&theme=prussian&hide_border=true&show_icons=true" alt="roushanagarwalla" />
+
 </span>
 <br/><br/>
-<span>
-  <img width="26.75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=roushanagarwalla&show_icons=true&hide=&count_private=true&theme=prussian&hide_border=true&show_icons=true" alt="roushanagarwalla" />
-</span>
